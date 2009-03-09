@@ -1,0 +1,5 @@
+# This was cloned from a TextMate bundle for yasnippet.
+#name : javascript_include_tag ${1::all}${2:, :cache => ${3:true}}
+#group : view
+# --
+javascript_include_tag ${1::all}${2:, :cache => ${3:true}}
